@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Hello world.",
-            "content": "About . This blog will report on my work often in forms of code and data viz. . Code . print(&quot;Hello world.&quot;) . Hello world. . .",
+            "content": "Hello world. . print(&quot;Hello world.&quot;) . Hello world. . .",
             "url": "https://atzenhofer.github.io/home/jupyter/2022/07/08/helloworld.html",
             "relUrl": "/jupyter/2022/07/08/helloworld.html",
             "date": " • Jul 8, 2022"
@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Welcome.",
-            "content": "This is my personal blog. Expect more later. .",
+            "content": "Welcome to my personal blog. Expect more later. .",
             "url": "https://atzenhofer.github.io/home/markdown/2022/07/07/welcome.html",
             "relUrl": "/markdown/2022/07/07/welcome.html",
             "date": " • Jul 7, 2022"
